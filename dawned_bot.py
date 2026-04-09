@@ -4,7 +4,7 @@ import os
 
 # --- الإعدادات ---
 # ضع التوكن الخاص بك هنا (من BotFather)
-API_TOKEN = '8231513274:AAF98_JD7b7-g_dp1hBOXemcwIYjnAp7wxw'
+API_TOKEN = 'gggi'
 
 bot = telebot.TeleBot(API_TOKEN)
 
